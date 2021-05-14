@@ -2,10 +2,18 @@
 
 0. 準備
 ### フォークする
+<img width="1435" alt="スクリーンショット 2021-05-15 3 35 28" src="https://user-images.githubusercontent.com/71377103/118317147-a7044800-b532-11eb-8497-b5de4df7c35f.png">
 
 ### クローンする
+<img width="1435" alt="スクリーンショット 2021-05-15 3 36 41" src="https://user-images.githubusercontent.com/71377103/118317154-a9ff3880-b532-11eb-8aae-c165e806e01a.png">
+```
+git clone <リポジトリURL>
+```
 
 ### ブランチをきる
+```
+git switch -c feature/01
+```
 
 ## -m
 コミットメッセージをつける
